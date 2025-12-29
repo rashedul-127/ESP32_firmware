@@ -1,5 +1,5 @@
 {
   "version": "3.0",
-  "allow_devices": ["F8:B3:B7:21:A4:7C"],
+  "allow_devices": ["F8:B3:B7:20:9B:2C"],
   "firmware_url": "https://raw.githubusercontent.com/rashedul-127/ESP32_firmware/main/firmware.ino.bin"
 }
